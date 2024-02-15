@@ -1,0 +1,32 @@
+Put your answers to the debugging questions from Problem One in this file.
+
+Q1:
+finish: 'C'
+numDisks: 5
+start: 'A'
+temp: 'B'
+totalMoves: 399
+
+
+Q2:
+file: "TowersOfHanoi.cpp"
+function: "solveTowersOfHanoi"
+
+
+Q3:
+
+
+
+Q4:
+
+
+
+Q5:
+
+
+
+Q6:
+
+
+
+Q7:
